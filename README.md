@@ -2,8 +2,8 @@
 
 ## ĐỀ CƯƠNG DỰ ÁN (PROJECT PROPOSAL)
 
-**Phiên bản:** 1.1
-**Ngày:**
+**Phiên bản:** 1.2  
+**Ngày:** 22/1/2026
 
 ---
 
@@ -73,12 +73,13 @@ Xây dựng hệ thống phát hiện và phản ứng sự cố an ninh trên m
 
 ## 2. Thành viên nhóm
 
-| Họ tên | MSSV | Vai trò | Email |
-|------|------|--------|-------|
-| | | Trưởng nhóm | |
-| | | Phát triển Agent | |
-| | | Phát triển Backend | |
-| | | Phát triển Frontend | |
+| Họ tên | MSSV | Vai trò | Nhiệm vụ chính |
+|------|------|--------|---------------|
+| **Đỗ Đình Anh Khoa** | | Trưởng nhóm / Điều phối | Quản lý tiến độ dự án, phân công công việc, tổng hợp tài liệu, làm việc với giảng viên hướng dẫn |
+| **Ngô Văn Thiện** | | Phát triển Agent | Xây dựng agent giám sát hành vi máy tính, thu thập tiến trình, file, mạng và tích hợp AI local |
+| **Nguyễn Hữu Thế** | | Phát triển Backend | Thiết kế và triển khai backend cloud, API, xử lý dữ liệu, tích hợp AI cloud và lưu trữ |
+| **Trần Duy Khoa** | | Phát triển Frontend | Xây dựng giao diện web dashboard, hiển thị cảnh báo, dữ liệu thời gian thực |
+| **Đỗ Duy Hưng** | | AI & Security Research | Nghiên cứu mô hình AI phát hiện bất thường, xây dựng luật phát hiện, hỗ trợ đánh giá an ninh |
 
 ---
 
