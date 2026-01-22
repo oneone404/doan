@@ -2,7 +2,7 @@
 
 ## ĐỀ CƯƠNG DỰ ÁN (PROJECT PROPOSAL)
 
-**Phiên bản:** 1.0  
+**Phiên bản:** 1.1
 **Ngày:**
 
 ---
